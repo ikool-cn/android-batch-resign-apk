@@ -1,7 +1,7 @@
 # android-batch-resign-apk
 安卓APK包批量重签名
 
-### 解决安卓10跨应用获取ANDROID_ID不一致问题，经研究只要是同一个证书签名的应用就可以获取到相同的设备吗
+### 解决安卓10跨应用获取ANDROID_ID不一致问题，经研究只要是同一个证书签名的应用就可以获取到相同的ANDROID_ID
 
 ```python
 #!/usr/bin/python
