@@ -21,10 +21,10 @@ handler.setFormatter(formatter)
 log.addHandler(handler)
 
 # config
-storepass = 'yoyou521'
-keypass = 'yoyou521'
+storepass = 'xxx'
+keypass = 'xxx'
 keystore = '/data/python/yoyou.keystore'
-keyAlias = 'zcgame'
+keyAlias = 'xxx'
 origin_apkdir = '/data/upload'
 tmp_dir = '/tmp'
 filter_apk = ['kepan.apk']
