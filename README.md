@@ -27,7 +27,7 @@ keystore = '/data/python/yoyou.keystore'
 keyAlias = 'xxx'
 origin_apkdir = '/data/upload'
 tmp_dir = '/tmp'
-filter_apk = ['kepan.apk']
+filter_apk = ['xxx.apk']
 
 # 列出指定目录的所有APK
 src_apks = []
